@@ -1,0 +1,10 @@
+(librepcb_library 28c9f359-51b8-4216-9ddc-d4885eac1a5f
+ (name "Cina_Unnamed")
+ (description "This is an unoffical LibrePCB library. China unnamed components")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-18T21:26:33Z)
+ (deprecated false)
+ (url "")
+)

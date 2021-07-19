@@ -1,0 +1,10 @@
+(librepcb_package_category 0ac57467-7c7e-4d06-8c6e-712797ae179d
+ (name "Unnamed China")
+ (description "Unknown China MFG")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-18T23:54:31Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
